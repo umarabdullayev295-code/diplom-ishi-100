@@ -1,8 +1,8 @@
 streamlit
-elevenlabs
 numpy
 pandas
 opencv-python
 faster-whisper
 torch
 ffmpeg-python
+elevenlabs
