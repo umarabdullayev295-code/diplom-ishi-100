@@ -6,3 +6,4 @@ faster-whisper
 torch
 ffmpeg-python
 elevenlabs
+python-dotenv
